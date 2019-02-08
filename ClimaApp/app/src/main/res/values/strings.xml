@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ClimaApp</string>
+    <string name="seleccione_una_ciudad">Seleccione una ciudad: </string>
+    <string name="title_activity_pronostico_extendido">pronosticoExtendido</string>
+    <string name="error_internet">No se pueden obtener los datos. Chequee su conexión a Internet.</string>
+</resources>
