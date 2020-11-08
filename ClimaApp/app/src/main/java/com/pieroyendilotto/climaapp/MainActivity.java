@@ -33,7 +33,7 @@ public class MainActivity extends AppCompatActivity {
 
                 tv.setGravity(Gravity.CENTER | Gravity.CENTER | Gravity.CENTER_VERTICAL);
 
-                return tv;
+                return nana;
             }
         };
         listaCiudades.setAdapter(adapter);
